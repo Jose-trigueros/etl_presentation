@@ -522,4 +522,4 @@ const NetflixPresentation = () => {
   );
 };
 
-export default NetflixPresentation;
+ReactDOM.render(<NetflixPresentation />, document.getElementById("root"));
